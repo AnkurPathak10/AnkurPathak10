@@ -1,12 +1,20 @@
 <h1 align="center">Hey 👋 I'm Ankur, creating bugs since 2024 😎</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkurPathak10&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,cpp,docker,express,npm,react" />
@@ -14,15 +22,35 @@
 
 ---
 
-### 🕹️ Pacman-style Contribution Animation
+## 🕹️ Pacman Animation (GitHub-safe)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="pacman animation" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/assets/pacman.svg" />
 </p>
 
 ---
 
-### 🔗 Connect with me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkurPathak10&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurPathak10&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkurPathak10&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com">
