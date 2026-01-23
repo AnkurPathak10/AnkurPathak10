@@ -1,77 +1,84 @@
-<h1 align="center">Hey 👋 I'm Ankur, creating bugs since 2024 😎</h1>
+<h1 align="center">Hey 👋I'm Ankur, creating bugs since 2024😎.</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient" />
-</p>
+###
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-## 👀 Profile Views
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkurPathak10&style=for-the-badge&color=blue" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph.svg">
+</picture>
 
----
+###
 
-## 🚀 Tech Stack
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkurPathak10.AnkurPathak10&"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,cpp,docker,express,npm,react" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkurPathak10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkurPathak10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🕹️ Pacman Animation (GitHub-safe)
+###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/assets/pacman.svg" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
+</div>
 
----
+###
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkurPathak10&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurPathak10&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkurPathak10&theme=tokyo-night" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
   </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
   </a>
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
