@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **cool projects and ideas.**
 
-- 💬 Ask me about **Data Structures and Algorithyms , Leetcode.**
+- 💬 Ask me about **Data Structures and Algorithms , Leetcode.**
 
 - 📫 How to reach me **ankur.business10@gmail.com**
 
