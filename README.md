@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient" />
 
-- 🔭 I’m currently working on **Nodebase**
+- 🔭 I’m currently working at **Indierise pvt ltd**
 
 - 🌱 I’m currently learning **Next, Typescript.**
 
