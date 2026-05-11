@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Ankur, creating bugs since 2024 😎</h1>
 
 - 🔭 I'm currently working at **Indierise pvt ltd**
-- 🌱 I'm currently learning **Next, Typescript.**
+- 🌱 I'm currently learning **DevOps and Backend principles**
 - 👯 I'm looking to collaborate on **cool projects and ideas.**
 - 💬 Ask me about **Data Structures and Algorithms , Leetcode.**
 - 📫 How to reach me **ankur.business10@gmail.com**
@@ -40,10 +40,12 @@
 <h1 align="center">Connect with me 👇</h1>
 
 <p align="center">
-  <a href="https://twitter.com/ankur31386332" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur31386332" height="50" width="60" /></a>&nbsp;
-  <a href="https://linkedin.com/in/ankur-pathak-360029255" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-pathak-360029255" height="50" width="60" /></a>&nbsp;
-  <a href="https://instagram.com/ankur__pathak_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankur__pathak_" height="50" width="60" /></a>&nbsp;
-  <a href="https://www.youtube.com/c/ankur_pathak10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankur_pathak10" height="50" width="60" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/ankurp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ankurp" height="50" width="60" /></a>&nbsp;
-  <a href="https://www.leetcode.com/ankur795" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankur795" height="50" width="60" /></a>
+  <table align="center"><tr>
+    <td><a href="https://twitter.com/ankur31386332" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="60" /></a></td>
+    <td><a href="https://linkedin.com/in/ankur-pathak-360029255" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" /></a></td>
+    <td><a href="https://instagram.com/ankur__pathak_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="60" /></a></td>
+    <td><a href="https://www.youtube.com/c/ankur_pathak10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="60" /></a></td>
+    <td><a href="https://codeforces.com/profile/ankurp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="50" width="60" /></a></td>
+    <td><a href="https://www.leetcode.com/ankur795" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60" /></a></td>
+  </tr></table>
 </p>
