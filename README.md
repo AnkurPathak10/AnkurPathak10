@@ -23,19 +23,17 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkurPathak10&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurPathak10&layout=compact&theme=dracula" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkurPathak10&theme=dracula" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkurPathak10&theme=dracula&hide_border=true" width="95%" height="300"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,cpp,docker,express,npm,react" />
 </p>
 
----
 
 <h1 align="center">Connect with me 👇</h1>
 
