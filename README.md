@@ -35,7 +35,7 @@
 </p>
 
 
-<h1 align="center">Connect with me 👇</h1>
+<h1 align="center">Connect with me 👇 </h1>
 
 <p align="center">
   <table align="center"><tr>
