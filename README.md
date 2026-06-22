@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Ankur, creating bugs since 2024 😎</h1>
 
-- 🔭 I'm currently working at **Indierise pvt ltd**
+- 🔭 I'm currently working at **Indierise Research Labs Private Limited**
 - 🌱 I'm currently learning **DevOps and Backend principles**
 - 👯 I'm looking to collaborate on **cool and interesting ideas**
 - 💬 Ask me about **Data Structures and Algorithms , Leetcode.**
