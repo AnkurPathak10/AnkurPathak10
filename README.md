@@ -43,6 +43,10 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td align="left">
+
 <details>
 <summary><b>🎬 IndieRay — Agentic AI Media Platform</b></summary>
 <br/>
@@ -114,6 +118,10 @@ An AI-powered system-architecture design tool combining retrieval-augmented gene
 | **Repository** | Private |
 
 </details>
+
+</td>
+</tr>
+</table>
 </div>
 
 # 💻 Tech Stack:
@@ -125,7 +133,7 @@ An AI-powered system-architecture design tool combining retrieval-augmented gene
 
 | Recognition | Details |
 |---|---|
-| Vocational Training — Prashikshan 2026 | Completed a five-week programme at Tata Steel Ltd.'s SNTI, Jamshedpur, focused on microalgal research |
+| Design Lead for Google Devfest Ranchi 2025 | Member of core team and led the design team to conduct successful Google Devfest Ranchi event ,attracting over 2000+ registrations. |
 | Expanded Engineering Scope | Grew role at IndieRise from frontend development into AI integration and backend engineering |
 
 </div>
