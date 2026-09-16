@@ -1,9 +1,9 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
 # 💫 About Me:
-🔭 I'm currently working on my chat app project **Envelo**<br>🌱 I'm currently learning **DevOps and Backend principles**<br>👯 I'm looking to collaborate on **cool and interesting ideas**<br>💬 Ask me about **Data Structures and Algorithms , Leetcode.**<br>📫 How to reach me **ankur.business10@gmail.com**<br>⚡ Fun fact **Bugs love me.**
+🔭 I'm currently working on my chat app project **Envelo**<br>🌱 I'm currently learning **DevOps and Backend principles**<br>👯 I'm looking to collaborate on **cool ideas**<br>💬 Ask me about **Data Structures and Algorithms.**<br>📫 How to reach me **ankur.business10@gmail.com**<br>⚡ Fun fact **Bugs love me.**
 
 </td>
 <td width="50%" valign="top">
