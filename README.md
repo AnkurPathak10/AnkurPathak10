@@ -37,7 +37,7 @@
 
 </div>
 
-I'm a Software Engineer at **IndieRise**, working across the full stack — from crafting frontend interfaces to building the backend systems that power AI-driven products. My core focus is **generative AI infrastructure**: integrating and orchestrating image and video generation models (**Kling, Seedance, Nano Banana, GPT-image-2**) into agentic workflows that go from raw intent to finished media.
+I'm an ex-software Engineer intern at **IndieRise**, working across the full stack — from crafting frontend interfaces to building the backend systems that power AI-driven products. My core focus is **generative AI infrastructure**: integrating and orchestrating image and video generation models (**Kling, Seedance, Nano Banana, GPT-image-2**) into agentic workflows that go from raw intent to finished media.
 
 I started on the frontend and expanded deliberately into backend and systems engineering — designing APIs, data pipelines, and **Model Context Protocol (MCP) servers** that let AI agents reason over real project context, generate media, and act autonomously. I care about production-grade reliability as much as clever architecture: debugging deployment quirks, auth edge cases, and integration failures is part of the job, not an afterthought.
 
@@ -274,10 +274,9 @@ Working across the full stack on IndieRay, IndieRise's AI-powered content platfo
 
 ## 🧩 Coding Profiles
 
-<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://geeksforgeeks.org/user/your-handle"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://hackerrank.com/your-handle"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ankur795/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://codeforces.com/profile/AnkurP"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/gaggle_luck_11"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -382,9 +381,8 @@ Currently:
 ## 📬 Connect
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankur-pathak10/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AnkurPathak10"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
