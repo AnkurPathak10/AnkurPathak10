@@ -1,10 +1,14 @@
 # 💫 About Me:
 🔭 I'm currently working on my chat app project **Envelo**<br>🌱 I'm currently learning **DevOps and Backend principles**<br>👯 I'm looking to collaborate on **cool and interesting ideas**<br>💬 Ask me about **Data Structures and Algorithms , Leetcode.**<br>📫 How to reach me **ankur.business10@gmail.com**<br>⚡ Fun fact **Bugs love me.**
 
+<br/>
+
 <div align="center">
-## 👻 Pacman Contribution Graph
- 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnkurPathak10/AnkurPathak10/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 <br/>
 
