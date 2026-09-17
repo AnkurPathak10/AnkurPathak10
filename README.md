@@ -147,17 +147,12 @@ An AI-powered system-architecture design tool combining retrieval-augmented gene
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkurPathak10&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=AnkurPathak10&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AnkurPathak10&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
